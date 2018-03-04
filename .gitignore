@@ -4,3 +4,9 @@ manifest/tmp/
 symphony/
 workspace/uploads/
 install-log.txt
+vendor/
+var/cache/
+var/logs/
+var/sessions/
+web/bundles/
+.vs/
